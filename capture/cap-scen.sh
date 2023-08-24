@@ -2,7 +2,7 @@
 # Capture Script 
 # Author: Andrey Ferriyan 
 #
-# v1.1
+# v1.2
 
 CURRENTDATE=`date +"%A_%Y-%m-%d_%H%M"`
 INTERFACE=ens160
